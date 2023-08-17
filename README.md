@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MinHdz247
 - 👀 I’m interested in code
 - 🌱 I’m currently studying at FPT College
--account: MinHdz247
+- 💞️ account: MinHdz247
 - 📫 How to reach me .gmail: Haudmpc06680@fpt.edu.vn
 
 <!---
